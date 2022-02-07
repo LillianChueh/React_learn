@@ -1,0 +1,38 @@
+div.summer{
+    background-color: darksalmon;
+    width: 100vw;
+    height: 100vh;
+}
+
+div.summer i.iconLeft{
+    position: relative;
+    top:10px;
+    left: 10px;
+    color: rgb(235, 127, 65);
+}
+
+div.summer i.iconRight{
+    position: relative;
+    bottom:10px;
+    right: 10px;
+    color: rgb(235, 127, 65);
+}
+div.winter{
+    background-color: rgb(169, 211, 245);
+    width: 100vw;
+    height: 100vh;
+}
+
+div.winter i.iconLeft{
+    position: relative;
+    top:10px;
+    left: 10px;
+    color: cadetblue;
+}
+
+div.winter i.iconRight{
+    position: relative;
+    bottom:10px;
+    right: 10px;
+    color: cadetblue;
+}
